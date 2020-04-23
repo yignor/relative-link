@@ -1,5 +1,6 @@
 # 	Относительные пути
 <img align="left" src="img/1.png">
+
 1. 	Как обратиться к style.css из index.html:
 
 ![Код для вызова css](img/2.png)
